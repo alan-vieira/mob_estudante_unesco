@@ -4,9 +4,8 @@ Visão analítica pela perspectiva do market inbound e do outbound, para mobilid
 
 ## Funcionalidades do projeto
 
-- `Funcionalidade 1`: 
-- `Funcionalidade 2`: 
-- `Funcionalidade 3`: 
+- `Funcionalidade 1`: Gerar um gráfico de map com o N=número total de alunos do ensino superior do exterior (Inbound) que estudam em um determinado país, do ano 2000 até 2018.
+- `Funcionalidade 2`: Gerar um gráfico de dispersão (Bubble), com o total Inbound vs total Outbound em 2018 para todos países, tendo a renda per capta determinadno o tamanho bolha.
 
 ## Aplicação
 
@@ -23,6 +22,9 @@ Você pode acessar o [código fonte do projeto](https://github.com/alan-vieira/e
 Após baixado, para o funcionamento correto da aplicação as seguintes dependêcias deverão ser instaladas.
 
 - `Pandas`
+- `IO`
+- `Plotly`
+- `emoji`
 
 ## Autor
 
