@@ -16,7 +16,7 @@ Visão analítica pela perspectiva do market inbound e do outbound, para mobilid
 
 ## Acesso ao projeto
 
-Você pode acessar o [código fonte do projeto](https://github.com/alan-vieira/extrator_tweets/blob/main/extrator_tweets.ipynb) ou [baixá-lo](https://github.com/alan-vieira/extrator_tweets/archive/refs/heads/main.zip).
+Você pode acessar o [código fonte do projeto](https://github.com/alan-vieira/mob_estudante_unesco/blob/main/unesco_mobilidade_estudantil.ipynb) ou [baixá-lo](https://github.com/alan-vieira/mob_estudante_unesco/archive/refs/heads/main.zip).
 
 ## Abrir e rodar o projeto
 Após baixado, para o funcionamento correto da aplicação as seguintes dependêcias deverão ser instaladas.
