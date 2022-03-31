@@ -9,7 +9,7 @@ Visão analítica pela perspectiva do market inbound e do outbound, para mobilid
 
 ## Aplicação
 
-![Mapa da Mobilidade Estudantil](./img/mapa_peq.png)
+![Mapa da Mobilidade Estudantil](./img/mapa_animado.gif)
 ![Gráfico de Bolhas](./img/bolhas.png)
 
 ## Ferramentas utilizadas
