@@ -1,6 +1,6 @@
 # Visão Analítica da Mobilidade Estudantil pelos dados do Instituto Unesco 
 ## Descrição do projeto
-Visão analítica pela perspectiva do market inbound e do outbound, para mobilidade estudantil ao longo dos anos 2000 até 2018, utilizando Jupyter Notebook para programação em python e bibliotecas pandas e io para manipulação dos dados e plotly para exibição dos gráficos.
+Projeto de visão analítica para observação da mobilidade estudantil, ensino superior do exterior (Inbound), no período de 2000 à 2018, utilizando tecnologias como Jupyter Notebook para programação em python, bibliotecas pandas e io para manipulação dos dados e plotly para geração e exibição dos gráficos interativos de mapas e o de bolhas para comparação dos métodos Inboud e Outbound.
 
 ## Funcionalidades do projeto
 
